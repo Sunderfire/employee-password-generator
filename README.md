@@ -11,6 +11,7 @@ When you click the generate password button you will be presented with two promp
 
 ![alt text](assets/images/passwordgeneratorscreenshot.png)
 
+Live site link: https://sunderfire.github.io/employee-password-generator/
 
 ## License
 
